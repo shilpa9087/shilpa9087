@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**shilpa9087/shilpa9087** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Featured Project
 
-Here are some ideas to get you started:
+### 🔹 [Life Insurance Agent Bonus Prediction](https://github.com/shilpa9087/life-insurance-project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A machine learning project focused on:
+- Predicting agent bonuses using classification and regression models
+- Segmenting agents using clustering (KMeans)
+- Delivering actionable business insights and recommendations
+
+**Tech Stack**: Python, Pandas, XGBoost, Scikit-learn, KMeans, Matplotlib, Seaborn
+
+---
+
+## 🧠 Skills & Tools
+
+- **Programming**: Python, SQL  
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning**: Regression, Classification, Clustering  
+- **ML Libraries**: Scikit-learn, XGBoost  
+- **Other Tools**: Jupyter, Google Colab, Git, GitHub
+
+---
+
+## 📬 Let’s Connect
+
+- 📧 Email: m.shilpa2812@gmail.com  
+- 💼 LinkedIn: [Add your LinkedIn link here]  
+- 🔗 GitHub: [https://github.com/shilpa9087](https://github.com/shilpa9087)
+
+---
+
+_“I use data to create clarity from complexity and drive decisions that matter.”_
