@@ -15,7 +15,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-AA0000?style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub] (https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
 
