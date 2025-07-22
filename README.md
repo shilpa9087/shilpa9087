@@ -7,14 +7,14 @@
 
 ## 📌 Tech Stack & Tools
 
-![Python] (https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL] (https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Pandas] (https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![NumPy] (https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Scikit-learn] (https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Matplotlib] (https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
-![XGBoost] (https://img.shields.io/badge/-XGBoost-AA0000?style=flat)
-![Git] (https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+![XGBoost](https://img.shields.io/badge/-XGBoost-AA0000?style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub] (https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
@@ -29,8 +29,6 @@ A machine learning project focused on:
 - 💡 Delivering actionable business insights and recommendations
 
 **Tech Stack**: Python, Pandas, XGBoost, Scikit-learn, KMeans, Matplotlib, Seaborn
-
----
 
 ## 🚀 Other Notable Projects
 
