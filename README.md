@@ -32,7 +32,7 @@ A machine learning project focused on:
 
 ## 🚀 Other Notable Projects
 
-### 🔸 [AUSTO Motors: Customer Insights] (https://github.com/shilpa9087/AUSTO-motors)
+### 🔸 [AUSTO Motors: Customer Insights] ((https://github.com/shilpa9087/car_sales-analysis.git))
 - Performed EDA and customer segmentation for a car dealership
 - Discovered sales-driving features and regional preferences
 - Tools: Python, Pandas, Seaborn, Matplotlib
