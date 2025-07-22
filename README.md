@@ -32,6 +32,29 @@ A machine learning project focused on:
 
 ---
 
+## 🚀 Other Notable Projects
+
+### 🔸 [AUSTO Motors: Customer Insights](https://github.com/shilpa9087/AUSTO-motors)
+- Performed EDA and customer segmentation for a car dealership
+- Discovered sales-driving features and regional preferences
+- Tools: Python, Pandas, Seaborn, Matplotlib
+
+### 🔸 [Inferential Statistics Analysis](https://github.com/shilpa9087/Inferential-statistics)
+- Applied hypothesis testing and statistical inference on real-world data
+- Demonstrated confidence intervals, t-tests, and chi-square tests
+- Tools: Python, Scipy, Seaborn
+
+### 🔸 [OTT Viewership Prediction](https://github.com/shilpa9087/OTTviewership-prediction)
+- Built models to predict content popularity on OTT platforms
+- Identified factors influencing user engagement
+- Tools: Logistic Regression, Random Forest, Seaborn
+
+### 🔸 [INN Hotel Booking ML Model](https://github.com/shilpa9087/INNHotel-MLmodel)
+- Predicted booking cancellations and customer behavior
+- Improved customer targeting using classification models
+- Tools: Scikit-learn, Logistic Regression, Decision Trees
+
+
 ## 📈 GitHub Stats
 
 ![Shilpa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shilpa9087&show_icons=true&theme=radical)
