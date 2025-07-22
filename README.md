@@ -21,7 +21,7 @@
 
 ## 💼 Featured Project
 
-### 🔹 [Life Insurance Agent Bonus Prediction](https://github.com/shilpa9087/life-insurance-project)
+### 🔹 [Life Insurance Agent Bonus Prediction] (https://github.com/shilpa9087/life-insurance-project)
 
 A machine learning project focused on:
 - 🔍 Predicting agent bonuses using classification and regression models
